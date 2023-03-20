@@ -16,7 +16,7 @@ export default class App extends Component {
     return (
       <>
         <Searchbar onSubmit={this.inputQuery} />
-        <ImageGallery searchQuery={this.state.searchQuery}></ImageGallery>
+        <ImageGallery searchQuery={this.state.searchQuery} />
         <ToastContainer />
       </>
     );

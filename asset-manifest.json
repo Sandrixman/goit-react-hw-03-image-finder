@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goit-react-hw-03-image-finder/static/css/main.821fb810.css",
-    "main.js": "/goit-react-hw-03-image-finder/static/js/main.82d9789a.js",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.c37b0311.js",
     "static/media/vecteezy_404-landing-page_6549647.jpg": "/goit-react-hw-03-image-finder/static/media/vecteezy_404-landing-page_6549647.38da77fa310c806b1db8.jpg",
     "index.html": "/goit-react-hw-03-image-finder/index.html",
     "static/media/search.svg": "/goit-react-hw-03-image-finder/static/media/search.0c88187760b3155d202492da138181e1.svg",
     "main.821fb810.css.map": "/goit-react-hw-03-image-finder/static/css/main.821fb810.css.map",
-    "main.82d9789a.js.map": "/goit-react-hw-03-image-finder/static/js/main.82d9789a.js.map"
+    "main.c37b0311.js.map": "/goit-react-hw-03-image-finder/static/js/main.c37b0311.js.map"
   },
   "entrypoints": [
     "static/css/main.821fb810.css",
-    "static/js/main.82d9789a.js"
+    "static/js/main.c37b0311.js"
   ]
 }
